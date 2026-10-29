@@ -1,5 +1,7 @@
 # Poet — poetry assistant
 
+[![tests](https://github.com/urscergun/poetry-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/urscergun/poetry-assistant/actions/workflows/tests.yml)
+
 A lightweight desktop editor that analyses your poem as you type, in **English** or **Romanian**:
 
 ![Poet editing a Romanian poem: syllable counts and rhyme letters in the gutter, rhyme pairs in the side panel](docs/screenshot.png)
@@ -18,8 +20,8 @@ A lightweight desktop editor that analyses your poem as you type, in **English**
 Requires Python 3.10+ with Tk (bundled with the python.org installers; on Linux `apt install python3-tk`).
 
 ```bash
-git clone https://github.com/OWNER/REPO.git
-cd REPO
+git clone https://github.com/urscergun/poetry-assistant.git
+cd poetry-assistant
 python -m pip install -r requirements.txt
 python main.py [poem.txt]
 ```
