@@ -4,7 +4,7 @@
 
 A lightweight desktop editor that analyses your poem as you type, in **English** or **Romanian**:
 
-![Poet editing a Romanian poem: syllable counts and rhyme letters in the gutter, rhyme pairs in the side panel](docs/screenshot.png)
+![Poet editing a Romanian poem: syllable counts and rhyme letters in the gutter, rhyme pairs in the side panel](docs/poet-window.png)
 
 
 - **Spelling** — unknown words underlined in red, with suggestions (right-click to replace, add to dictionary or ignore). Mid-line capitalised words are treated as names and skipped.
