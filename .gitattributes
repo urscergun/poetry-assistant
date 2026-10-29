@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+# Keep the Hunspell dictionary byte-for-byte as distributed.
+poet_core/lang/ro/data/* -text
